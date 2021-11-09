@@ -4,36 +4,28 @@ What is 204?
 
  - Tender/Revision/Cancel 
 
-What is 214? 
+Q: What is 214? 
+A: Status update Pickup or Delivery 
 
- - Status update Pickup or Delivery 
+Q: Alias 
+A: A code used for site association. (Usually, it’s mapped to N104 element in the EDI file.) 
 
-What is Alias? 
+Q: Attribute
+A: an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to 
 
- - A code used for site association. (Usually, it’s mapped to N104 element in the EDI file.) 
+Q: A&L? 
+A: Accounts and Locations, now Accounts, a J.B. Hunt 360 module that we use for looking up accounts, locations information, and manually set up site associations. 
 
-What is Attribute? 
+Q: Backfill 
+A: Order information from the new Orders system will be synchronized back to legacy systems 
 
- - an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to 
+Q: Bizlink? 
+A: System that grabs the “dropped” EDI Files and updates the information in the database accordingly. (Create, Change, Cancel, etc.) 
 
-What is A&L? 
+Q: what is a Bot? 
+A: a program designed to automate manual processes 
 
- - Accounts and Locations, now Accounts, a J.B. Hunt 360 module that we use for looking up accounts, locations information, and manually set up site associations. 
-
-What is Backfill? 
-
- - Order information from the new Orders system will be synchronized back to legacy systems 
-
-What is Bizlink? 
-
- - System that grabs the “dropped” EDI Files and updates the information in the database accordingly. (Create, Change, Cancel, etc.) 
-
-What is Bot? 
-
- - a program designed to automate manual processes 
-
-What is BTC? 
-
- (Bill-To Code, or Bill-To Account) - a 4-to-6-digit code that specifies to which account the billing services should be applied. 
+Q: What is BTC? 
+A: (Bill-To Code, or Bill-To Account) - a 4-to-6-digit code that specifies to which account the billing services should be applied. 
 
  
