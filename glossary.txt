@@ -1,5 +1,5 @@
 Question: What is Alias? 
-Answer: A code used for site association. (Usually, it’s mapped to N104 element in the EDI file.) 
+Answer: A code used for site association. Usually, it’s mapped to N104 element in the EDI file.
 
 Question: What is Attribute?
 Answer: an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to.
@@ -11,7 +11,7 @@ Question: What is Backfill?
 Answer: Order information from the new Orders system will be synchronized back to legacy systems.
 
 Question: What is Bizlink? 
-Answer: System that grabs the “dropped” EDI Files and updates the information in the database accordingly. (Create, Change, Cancel, etc.)
+Answer: System that grabs the “dropped” EDI Files and updates the information in the database accordingly. Create, Change, Cancel, etc.
 
 Question: what is a Bot? 
 Answer: a program designed to automate manual processes.
