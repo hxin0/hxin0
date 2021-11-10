@@ -1,0 +1,11 @@
+what is a 204?
+Tender/Revision/Cancel.
+
+Shipper/shp/pickup/origin?
+where the load is to be picked up from for shipping.
+
+Simpleton?
+rules that do not require the shippers or the receivers in them.
+
+Site code?
+a 2-to-6-character code that represents an address for a specific physical & geographical location.
