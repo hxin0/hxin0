@@ -139,7 +139,7 @@ Simpleton -
 rules that do not require the shippers or the receivers in them.
 
 Site code -
-a 2-to-4-character code that represents an address for a specific physical & geographical location.
+a 2-to-6-character code that represents an address for a specific physical & geographical location.
 
 T1 (Tier-1) -
 rules that require shippers site code/s or receiver site codes/s but not both.
