@@ -1,23 +1,22 @@
-Question: What is Alias? 
-Answer: A code used for site association. Usually, it’s mapped to N104 element in the EDI file.
+Alias? - A code used for site association. Usually, it’s mapped to N104 element in the EDI file.
 
-Question: What is Attribute?
-Answer: an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to.
+Attribute?
+an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to.
 
-Question: What is A&L? 
+A&L? 
 Answer: Accounts and Locations, now Accounts, a J.B. Hunt 360 module that we use for looking up accounts, locations information, and manually set up site associations. 
 
-Question: What is Backfill?
+Backfill?
 Answer: Order information from the new Orders system will be synchronized back to legacy systems.
 
-Question: What is Bizlink? 
-Answer: System that grabs the “dropped” EDI Files and updates the information in the database accordingly. Create, Change, Cancel, etc.
+Bizlink? 
+System that grabs the “dropped” EDI Files and updates the information in the database accordingly. Create, Change, Cancel, etc.
 
-Question: what is a Bot? 
-Answer: a program designed to automate manual processes.
+Bot? 
+a program designed to automate manual processes.
 
-Question: What is BTC? 
+BTC? 
 Answer: (Bill-To Code, or Bill-To Account) - a 4-to-6-digit code that specifies to which account the billing services should be applied. 
 
-What is wdio?
+wdio?
 WDIO: short for Web Driver IO, a progressive automation framework built to automate modern web and mobile applications.
