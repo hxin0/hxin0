@@ -31,8 +31,8 @@ System that grabs the “dropped” EDI Files and updates the information in the
 Bot?
 a program designed to automate manual processes.
 
-BTC?
-(Bill-To Code, or Bill-To Account) a 4-to-6-digit code that specifies to which account the billing services should be applied.
+BTC (Bill-To Code, or Bill-To Account)?
+a 4-to-6-digit code that specifies to which account the billing services should be applied.
 
 Business Unit?
 High-Level category of Order/Load types (JBI, DCS, etc.).
@@ -43,12 +43,10 @@ an EDI load tender 204 file from a customer that has ‘01’ as B2A01 element f
 Change?
 an EDI load tender 204 file from a customer that has ‘04’ as B2A01 element for an update of the order.
 
-Corporate Account?
-Customer Account (CA / Corp Acct / Cust Acct)?
+Corporate Account (Customer Account / CA / Corp Acct / Cust Acct)?
 a singular bill to account for a company (or the company which own said company) which can have several subordinate singular accounts under it. [ex: Coca Cola has the Corporate Account of COCHOY which then has 50 other Bill-To accounts subordinate it.].
 
-Customer Code?
-(Cust Code)?
+Customer Code (Cust Code)?
 Generic term for any code for a Solicitor, Shipper, or Receiver.
 
 Default Rules?
@@ -63,18 +61,16 @@ Tag used to specify that Orders received belonging to the associated Bill-To's o
 Duplicate?
 2 site associations that have the same Corporate Account, same alias code but different location codes. Duplicate is not allowed for site association.
 
-EDI?
-Electronic Data Interchange?
+EDI (Electronic Data Interchange)?
 Inter-company, computer-to-computer transmission of business information in a standard format. Transaction types are identified by 3-digit numbers (204, 990, etc.).
 
-EDI Lookup?
-Website interface used to query for and view the EDI data (in its raw form) of a specific Order. Also used to verify data integrity.
-
-EDI Raw Data?
+EDI Lookup (EDI Raw Data)?
 Website interface used to query for and view the EDI data (in its raw form) of a specific Order. Also used to verify data integrity.
 
 EOM?
-(Enterprise Order Management)?
+short for Enterprise Order Management.
+
+Enterprise Order Management?
 Legacy system used for order creation, cancellation, and change management.
 
 Fleet Code?
@@ -120,7 +116,7 @@ Resultant Action?
 what the rule is supposed to apply to the EDI/Order.
 
 SCAC?
-short for ‘Standard Carrier Alpha Code’?
+short for ‘Standard Carrier Alpha Code’
 A 2-to-4-character alphabetical code found in the 2nd element of the B2 segment of an EDI, as well as in the UCR created from it. Can be used in rules when a TP has more than one SCAC.
 
 Service Offering?
