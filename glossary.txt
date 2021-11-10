@@ -1,22 +1,52 @@
-Alias? - A code used for site association. Usually, it’s mapped to N104 element in the EDI file.
-
-Attribute?
-an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to.
-
-A&L? 
-Answer: Accounts and Locations, now Accounts, a J.B. Hunt 360 module that we use for looking up accounts, locations information, and manually set up site associations. 
-
-Backfill?
-Answer: Order information from the new Orders system will be synchronized back to legacy systems.
-
-Bizlink? 
-System that grabs the “dropped” EDI Files and updates the information in the database accordingly. Create, Change, Cancel, etc.
-
-Bot? 
-a program designed to automate manual processes.
-
-BTC? 
-Answer: (Bill-To Code, or Bill-To Account) - a 4-to-6-digit code that specifies to which account the billing services should be applied. 
-
-wdio?
-WDIO: short for Web Driver IO, a progressive automation framework built to automate modern web and mobile applications.
+204? Tender/Revision/Cancel.
+214? Status update Pickup or Delivery.
+217? Invoice.
+990? Accept or Reject.
+997? Acknowledge Receipt of File.
+Alias? A code used for site association. (Usually, it’s mapped to N104 element in the EDI file.).
+Attribute? an item used in the creation of rules to help narrow down to which EDI's/Orders the rule applies to.
+A&L? Accounts and Locations, now Accounts, a J.B. Hunt 360 module that we use for looking up accounts, locations information, and manually set up site associations.
+Backfill? Order information from the new Orders system will be synchronized back to legacy systems.
+Bizlink? System that grabs the “dropped” EDI Files and updates the information in the database accordingly. (Create, Change, Cancel, etc.).
+Bot? a program designed to automate manual processes.
+BTC? (Bill-To Code, or Bill-To Account) a 4-to-6-digit code that specifies to which account the billing services should be applied.
+Business Unit? High-Level category of Order/Load types (JBI, DCS, etc.).
+Cancel? an EDI load tender 204 file from a customer that has ‘01’ as B2A01 element for cancellation of the order.
+Change? an EDI load tender 204 file from a customer that has ‘04’ as B2A01 element for an update of the order.
+Corporate Account/Customer Account (CA / Corp Acct / Cust Acct)? a singular bill to account for a company (or the company which own said company) which can have several subordinate singular accounts under it. [ex: Coca Cola has the Corporate Account of COCHOY which then has 50 other Bill-To accounts subordinate it.].
+Customer Code (Cust Code)? Generic term for any code for a Solicitor, Shipper, or Receiver.
+Default Rules? Set of basic standard rules that are applied to (nearly) all Trading Partners when setting them up for testing.
+Destination? (See Receiver).
+Do Not Auto Accept? Tag used to specify that Orders received belonging to the associated Bill-To's or Trading Partners, will not automatically turn into a JB Hunt Load. All received Orders will need to be manually accepted to become a JB Hunt Load.
+Duplicate? 2 site associations that have the same Corporate Account, same alias code but different location codes. Duplicate is not allowed for site association.
+EDI (Electronic Data Interchange)? Inter-company, computer-to-computer transmission of business information in a standard format. Transaction types are identified by 3-digit numbers (204, 990, etc.).
+EDI Lookup (EDI Raw Data)? Website interface used to query for and view the EDI data (in its raw form) of a specific Order. Also used to verify data integrity.
+EOM (Enterprise Order Management)? Legacy system used for order creation, cancellation, and change management.
+Fleet Code? Code describing a more specific branch (or Fleet) of a Business Unit.
+Headless? a web browser without a graphical user interface.
+Host? A 3270 emulator in which we can access data in legacy mainframe system.
+KANBAN Board? Our Kanban board resides in ADO that was designed to be the one location to keep track of EDI Testing workflow.
+Load Number (Load #)? JB Hunt Load Number is a 7-character alpha-numeric code used to identify a particular shipment. Orders must be assigned a JB Hunt Load Number to be considered a JB Hunt Load.
+Mapping? to associate EDI elements from incoming files with JB Hunt systems data.
+OM? Order Management, now Orders, a J.B. Hunt 360 module we use for order creation, cancellation, and change management.
+Order Number (Order #)? Numeric value used to identify a particular shipment. Is assigned to the shipment once the EDI file has been processed.
+Origin? (See Shipper).
+Original? an EDI load tender 204 file from a customer that has ‘00’ as B2A01 element.
+Pick-up? (See Shipper).
+RCVR? (See Receiver) .
+Receiver? where the shipped load is to be delivered to .
+Resultant Action? what the rule is supposed to apply to the EDI/Order.
+SCAC? short for ‘Standard Carrier Alpha Code’? A 2-to-4-character alphabetical code found in the 2nd element of the B2 segment of an EDI, as well as in the UCR created from it. Can be used in rules when a TP has more than one SCAC.
+Service Offering? Code or description of the services required to handle the Order, such as Refrigerated (Reefer) or Flatbed (Trailer with no sidewalls or roof).
+Ship ID? alphanumeric value (special characters as well) used (and issued) by the Shipper to identify a particular shipment. Sometimes referred to as a “Pro Number”. (The B204 element in a 204 file.).
+SHPR? (See Shipper).
+Shipper? where the load is to be picked up from for shipping.
+Simpleton? rules that do not require the shippers or the receivers in them.
+Site code? a 2-to-4-character code that represents an address for a specific physical & geographical location.
+T1 (Tier-1)? rules that require shippers site code/s or receiver site codes/s but not both.
+T2 (Tier-2)? rules that require both shippers and receivers site codes .
+Tender? When a shipment is offered to a Carrier or JB Hunt driver.
+TONU? (Truck Order Not Used) When a truck arrives at a Shipper to be loaded and the shipment has been cancelled.
+TP? (See Trading Partner).
+Trading Partner? a JB Hunt grouping of BTC's and services for a specific customer.
+WDIO? short for Web Driver IO, a progressive automation framework built to automate modern web and mobile applications.
