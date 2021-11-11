@@ -1,0 +1,1886 @@
+What is 99?
+"The last stop in a load.
+Related Terms: Stop Number."
+
+What is 1PL (First Party Logistics)?
+Party that dictates the origin and the destination of the cargo with distribution being an entirely internal process assumed by the firm.
+
+What is 2PL (Second Party Logistics)?
+Party that is hired to provide a transportation service over a specific segment of the supply chain.
+
+3PL (Third Party Logistics)?
+Party that transports, sorts and handles products without ever taking title of said product.
+
+401(k)?
+A 401(k) plan is a qualified employer-sponsored retirement plan that eligible employees may make salary-deferral contributions to on a post-tax and/or pretax basis.
+
+4PL (Fourth Party Logistics)?
+Party that establishes a joint venture or long-term contract between a primary client and one or more partners. This party ideally manages all aspects of their client's supply chain.
+
+7-Way?
+"The electrical transfer into which the pigtail is plugged.
+Related Terms: Pigtail"
+
+AA Service?
+"A DOT Required safety/maintenance inspection for trailers completed by Maintenance. 
+Related Terms: Department of Transportation (DOT)"
+
+Accessorial?
+Additional fee charged to a load for any service outside of the line haul charges that Accounts Payable is authorized to pay (transit cost, fuel cost, stop-off charges, dead head fee). These charges are published on rules tariff or in a customer’s contract and include such fees as detention, driver loading/unloading, lumper fees, overweight costs, re-consignments, scale fees, etc.
+
+Accounts and Locations?
+"A system that integrates Experian and Melissa data to create and maintain customer and site information.
+Related Terms: Experian, Melissa"
+
+Activity?
+The action performed at a stop location which can either be a pickup or delivery.
+
+Air Brake?
+Air-brakes are generally found in semi-trucks, buses and rail cars. Roadgoing vehicles equipped with air brakes have a graduated release system where a partial increase in pressure dictates a proportional release in brakes. Stepping on the brake pedal releases pressure that is holding the brake pads from engaging the rotor. In this type of system, the brakes are always engaged (clamped down on the rotor) until air pressurizes the system.
+
+Air Freight?
+The transportation of goods by aircraft.
+
+Air Lines?
+Every combination vehicle has two air lines--the service line and the emergency line. They run between each vehicle (tractor to trailer, trailer to dolly, dolly to second trailer, etc.). Service Air Line (normally blue): The service line (also called the control line or signal line) carries air which is controlled by the foot brake or the trailer hand brake. The pressure in the service line will similarly change depending on how hard you press the foot brake or hand valve. The service line is connected to a relay valve on the trailer to apply more or less pressure to the trailer brakes. The relay valve connects the trailer air tanks to the trailer air brakes. As pressure builds up in the service line, the relay valve opens and sends air pressure from the trailer air tank to the trailer brake chambers, putting on the trailer brakes. Emergency Air Line (normally red): The emergency line has two purposes. First, it supplies air to the trailer air tanks, and secondly, the emergency line controls the emergency brakes on combination vehicles. Loss of air pressure in the emergency line causes the trailer emergency brakes to come on. The pressure loss could be caused by a trailer breaking loose, tearing apart the emergency air hose. It could also be caused by a hose, metal tubing, or other part which breaks letting the air out. When the emergency line loses pressure, it causes the tractor protection valve to close (the air supply knob will pop out).
+
+Alias (INITS)?
+"A three-digit code used for identifying an individual who is assigned access to the J.B. Hunt computer system. Not all departments utilize aliases. 
+Also known as: Order Owner, Order Units"
+
+Alpha Code?
+Code used internally to identify J.B. Hunt drivers.
+
+Alternate Appointment?
+An appointment that is an alternative to the requested appointment by the customer.
+
+Application Specialist (AS)?
+Employees who take driver applications to determine whether the applicant qualifies for the company/position.
+
+Appointment?
+An arrangement to meet someone and pickup or deliver something at a particular time and place, often expressed as a window with a beginning and an end.
+
+Appointment Number?
+The reference number to an appointment that has been set for a specific location. This is typically the number provided to the Driver to be used when entering the location.
+
+Area?
+A geographical space defined by a department or group to describe a region territory or other grouping space used.
+
+Area Maintenance Manager (AMM)?
+Manages maintenance for designated DCS accounts and works within a specific region
+
+Area Risk Manager (ARM)?
+Safety Manager. In charge of managing safety and compliance issues for their given area.
+
+Area Service Manager (ASM)?
+Person responsible for truck freight assignment.
+
+Asset?
+Term used to classify J.B. Hunt equipment.
+
+Association of American Railroads (AAR)?
+
+
+Authority?
+Legal authority granted by the DOT to engage in the transportation of goods as a motor carrier, broker, or freight forwarder.
+
+Auto Transport?
+A specialized trailer or truck/trailer combination used for transporting passenger vehicles.
+
+Autorate?
+The manner of applying charges automatically to an invoice for the services performed based on what is set up and published in the system. i.e. Rates, Fuel and Accessorials.
+
+BackHaul?
+Hauling cargo from original destination back to point of origin to avoid hauling an empty trailer.
+
+BackHaul Market?
+Low outbound freight volume area. Least desirable destinations when soliciting ramp location.
+
+Backhaul Revenue?
+Revenue generated from the return movement of a truck from its destination back to its point of origin with a payload. This money is often shared with the shipper or used to offset dedicated rates in a contract.
+
+Bad Order Flatcar?
+Damaged flatcar that cannot be used for moving trailers or containers.
+
+Bad Order Unit (Red Tag)?
+"A unit that is not roadworthy, rail-ready, or ready to be used
+Related Terms: Good Order Unit"
+
+Balance?
+The amount of inbound freight matches amount of outbound freight for a marketing area or rail ramp location.
+
+Base Pay?
+Regular or fixed pay excluding any variable compensation or overtime.
+
+Basic Inspection of Terminals (BIT)?
+The BIT program ensures the safe operation of regulated vehicles by motor carriers. Primarily, the intent of this program is to ensure truck terminals are inspected by the California Highway Patrol (CHP). Terminals and equipment domiciled in California must be inspected every 90 days.
+
+Belly Dump?
+A trailer with a dumping mechanism in the bottom or “belly”.
+
+Bendix Wingman?
+A collision mitigation system that warns a driver that they are too close to a vehicle in front of them and should begin applying braking pressure.
+
+Beneficiary?
+Your beneficiary is the person you designate to receive your benefit if you pass away.
+
+Bestpass?
+"JBH Toll Solution Service Provider 
+Related Terms: EZPass, Horizon, FasTrak, Sunpass, Good To Go, Toll"
+
+Bill of Lading (BOL)?
+The bill of lading works as a receipt of freight services, a contract between a freight carrier and shipper and a document of title. The bill of lading is a legally binding document providing the driver and the carrier all the details needed to process the freight shipment and invoice it correctly.
+
+Bill-To Account?
+The business party billed by J.B. Hunt for services provided.
+
+Bill-To Code (BTC)?
+Code to associate a shipping order and type with the business party who will be billed for the services.
+
+Blind Load?
+An order in which the shipper and/or the receiver are not to be made aware of the actual origin and/or the destination of the product.
+
+Board?
+A group of tractors and drivers assigned to a Fleet/ Project Manager.
+
+Bobtail?
+A power unit (tractor) without a trailer attached.
+
+Bond Holder?
+"The owner of the bond number.
+Related Terms: Bond Number"
+
+Bond Number?
+The inbond Transit number that is referenced for the inbond haul. This can be the same number that is used on a shipment master bill. The number may start with a V as is the case with ocean shipments.
+
+Bond Type?
+"The type of bond used to secure the product being hauled. 
+Examples: Transport Export (T&E), Immediate Transport (IT), Immediate Export (IE)"
+
+Box Capacity?
+Box capacity is the count of available boxes that can be loaded at a specific time. This will be constrained against the Intermodal supply count and is only used for Intermodal capacity.
+
+Bracing?
+Wood, metal, or other approved supports to keep shipments in place in or on rail cars, containers, and trailers.
+
+Broker(age)?
+A person or entity authorized to arrange for transportation of goods by a motor carrier for compensation. As commonly used within J.B. Hunt, “brokerage” is the business of arranging transportation of goods by a motor carrier.
+
+B-Service?
+Preventative tractor maintenance that is typically completed every 40,000-50,000 miles.
+
+B-Train Double?
+"A special set of doubles: the second (usually shorter) trailer is hooked directly to the first via a fifth wheel on the rear of the first one (two semis).
+Related Terms: Fifth Wheel"
+
+Bulk Cargo?
+Large quantities of undivided or unpackaged cargo such as grain or dry powder.
+
+Bulkhead?
+A strong wall-like structure placed at the front of a flatbed trailer (or on the rear of the tractor) used to protect the driver against shifting cargo during a front-end collision. May also refer to any separator within a dry or liquid trailer (also called a baffle for liquid trailers) used to partition the load.
+
+Business Development Manager (BDM)?
+
+
+Business Unit (IBU)?
+"A major division within J.B. Hunt that defines how business is booked, tracked, and accounted for.There are four Business Units within J.B. Hunt: 
+Dedicated Contract Services (DCS) 
+Integrated Capacity Solutions(ICS)
+Intermodal (JBI)Truckload (JBT)
+Related Terms: Dedicated Contract Services (DCS), Division, Integrated Capacity Solutions (ICS), Intermodal (JBI), Truckload (JBT)"
+
+CA FasTrak?
+"A Toll transponder which covers the CA Toll Roads 
+Related Terms: Bestpass, Toll"
+
+Cab?
+The interior of a truck where the driver sits to operate the vehicle.
+
+Cabover?
+A semi-tractor with a flat front. The driver is seated over the engine.
+
+California Hole?
+For freight moving to California, the tandems must be all the way forward in the 1st hole.
+
+Call EZPass?
+"A notification by the EZPass Tolling System which indicates an EZPass transponders low battery or low signal alert 
+Related Terms: Toll"
+
+Canada Border Services Agency (CBSA)?
+The federal law enforcement agency responsible for customs services in Canada. Related Terms: In Bond, Pre-Arrival Review System (PARS)
+
+Canned Message?
+"A preformed message the driver can send from their onboard computer to communicate with their fleet manager and the J.B. Hunt computer system. 
+Related Terms: Onboard Computer (OBC)"
+
+Capacity?
+Represents the amount of power available to move loads in an area. It is measured by calculating the difference between the number of power units and number of loads within a specific area.
+
+Capacity Coordinator?
+Manages loads or driver capacity.
+
+Capacity Procurement Representative (CP Rep)?
+Individual who brokers freight.
+
+Career Placement Specialist (CPS)?
+"Driver recruiter within the Driver Personnel department.
+Related Terms: Driver Personnel (CDP)"
+
+Carrier Discrepancy Team (CDT)?
+Internal factoring settlement management team.
+
+Carrier Freight Payment (CFP)?
+J.B. Hunt system that tracks carrier invoices and related fees, discrepancies, etc.
+
+Carrier Load Tender?
+Contract between a carrier and J.B. Hunt.
+
+Carrier Management System (CMS)?
+J.B. Hunt system used to manage carriers.
+
+Carrier, or Motor Carrier?
+"A for-hire entity authorized to provide motor vehicle transportation for compensation.
+Related Term: Contract Carrier, Broker"
+
+Cartage Company?
+"A company that provides transportation for short distances, such as in a commercial area or town.
+Related Terms:Dray Carrier"
+
+Center Screen?
+J.B. Hunt system used to search/report on carriers, loads, orders, etc.
+
+Chain Bank?
+A location, usually a truck stop, that holds and distributes chains for chain restricted roads during winter months.
+
+Chassis?
+"Metal frame with wheels that supports and moves an Intermodal container on roadways.
+Related Terms: Container, Intermodal"
+
+Chassis Stacking Unit (CSU)?
+"A unit onto which three to four chassis are loaded to transport them more efficiently when an imbalance occurs.
+Related Terms: Balance"
+
+Check Call?
+Communications made from a driver to fleet manager of load status documented into the computer, as well as, additional information such as issues or clarifications regarding present dispatch.
+
+Chock?
+A wedge or block of wood, metal or the like, used to brace the wheels and hold a truck steady
+
+Claim?
+A safety-related injury or cargo discrepancy (overweight, damaged and freight shortage) issued by an employee, customer, or third-party.
+
+Class Code?
+"The code that designates the classification of a commodity. This is typically the National Motor Freight Classification (NMFC) of the product that is used to establish the commodity’s “transportability.”
+Related Terms: Commodity, National Motor Freight Classification (NMFC)"
+
+Closed Loop Lane?
+Fleet of drivers going back and forth between points in a dense lane.
+
+Co-Driver?
+A driver associated in the action of driving with another driver, usually having a lesser share in duty or responsibility, unless drivers are members of a special assignment team or pilot team.
+
+Collect on Delivery (COD)?
+"Collect on delivery is the sale of goods where payment is made on delivery rather than in advance. In some instances, the carrier (JBHT) will collect payment for the sale of goods at the point of delivery.
+Also known as: Cash on Delivery"
+
+Collision?
+A vehicular happening resulting from carelessness, unawareness, ignorance or a combination of causes usually costing more than $100 in damages.
+
+COMCHECK (COMDATA)?
+"A payer (shipper or a broker) that has an account with COMDATA, issues COMCHEKs to a payee (trucking company or driver) for services rendered or as a cash advance and they do so in a form of an Express Code for a predetermined amount. Once the payee (trucking company or driver) receives their express codes they have several options to redeem their money. Comcheks can be cashed at truck stops or any bank as long as Comchek blank is present.
+
+Trucking companies with COMDATA accounts may also issue COMDATA cards (similar to a debit card) to their drivers. This provides ready access to funds via ATM or the ability to use funds anywhere MasterCard is accepted."
+
+Commercial Bill of Lading (CBL)?
+Also known as: Bill of Lading (BOL)
+
+Commercial Drivers License?
+In order to operate various commercial vehicles a person must obtain a specialized license. In the U.S. , drivers of a semi-tractor are required to carry a Class A commercial driver’s license for vehicles with a Gross Vehicle Weight Rating in excess of 26,000lbs.
+
+Commitments?
+Agreements with selected customers to use a specific number of tractors equal to the number of committed loads per day, week, month, or year.
+
+Commodity?
+"The type of product that a customer is shipping.
+Also known as: General Commodity"
+
+Company Driver, or J.B. Hunt Driver?
+A Driver who is an employee of J.B. Hunt and uses equipment owned or leased by J.B. Hunt to perform services. This term should never be used to refer to an Independent Contractor, Owner Operator, Lease-Purchase Operator, or a driver working for a Contract Carrier.
+
+Compass?
+A program that assists the Customer Experience Representative in booking/soliciting the right freight for the right truck at the right time.
+
+Compressed Natural Gas (CNG)?
+A fuel which can be used in place of gasoline, diesel fuel and propane/LPG. CNG combustion produces fewer undesirable gases than the fuels mentioned above.
+
+Congestion Fee?
+"Accessorial charged for travel through areas that engage in congestion pricing (i.e. Manhattan), other high traffic areas, or even high traffic events (i.e. Super Bowl).
+Related Term: Accessorial"
+
+Consignee?
+"The entity that is financially responsible for receipt of a shipment and is generally, but not always, the Receiver.
+Related Terms: Receiver"
+
+Consignment?
+Act of delivering goods or merchandise, includes consignee, consignor and commodity information.
+
+Consignor?
+"The original party shipping freight who is commonly referred to as the shipper.
+Also known as:Shipper"
+
+Container?
+"Stackable box that sits on a chassis or on a rail car (flatcar)
+Related Terms: Chassis"
+
+Container-On-Flatcar (COFC)?
+Intermodal term for when a container is loaded on a flatcar for transport by rail.
+
+Contingent worker?
+Freelancers, independent contractors or other non-permanent workers who are often hired for one-time projects or seasonal work.
+
+Contract Carrier?
+"A person or business operating as a motor carrier with whom J.B. Hunt contracts to arrange for the transportation of J.B. Hunt’s customer’s freight pursuant to J.B. Hunt’s broker authority. A Contract Carrier operates its own leased or owned equipment under its own motor carrier authority and insurance. In some circumstances, a Contract Carrier may utilize J.B. Hunt’s trailing equipment to provide services. Sometimes also referred to as a “third-party carrier.” Intermodal third-party dray carriers, ICS carriers, PCS carriers and FMS delivery carriers are all Contract Carriers. 
+Related Terms: Carrier, Broker, Independent Contractor."
+
+Contract Rate?
+The rate for shipment agreed upon by both the shipper and J.B. Hunt that is bound by legal documentation.
+
+Conventional Tractor?
+"A semi-tractor with the cab seated behind the engine.
+Also known as: Hood Tractor, Long-Nosed Tractor"
+
+Crew Class?
+A rating used to determine the mileage and performance capabilities of a single driver or team combinations. Calculated by the computer, based on a driver’s performance over the past month. (S6, S7, T7, T9)
+
+Critical Vehicle Events (CVE)?
+Collision mitigation, roll stability, and headway events.
+
+Crosstown?
+"The interchange of a container between railroad ramps across a short distance (in other words,across town).
+Related Terms: Rubber Wheel, Steel Wheel"
+
+Customer?
+"Any business entity that J.B. Hunt wishes to invoice or contract with to deliver goods and/or services. Each customer will have any number of attributes based upon the functional needs of each business unit of the operation such as Order Management, Operations, Accounting, etc. 
+Related Terms: Shipper"
+
+Customer Authorization Name?
+"The first and last name of the customer contact who is authorizing an accessorial charge.
+Related Terms: Accessorial"
+
+Customer Authorization Reference Number?
+"The authorization number provided for the accessorial authorization.
+Related Terms: Accessorial"
+
+Customer Code?
+An alphanumeric code used to identify a customer.
+
+Customer Experience Manager (CEM)?
+J.B. Hunt position responsible for managing a group of CERs.Related Terms: Customer Experience Representative (CER)
+
+Customer Experience Representative (CER)?
+J.B. Hunt position responsible for all daily communication with customers including order solicitation, order entry, setting all original pick-up and delivery appointments, order tracing, etc.
+
+Customer Experience Specialist (CES)?
+
+
+Customer Experience Support Leader (CESL)?
+
+
+Customer Request?
+"The formal or informal request from a customer to purchase transportation from J.B. Hunt. Requests are made for the movement of either goods or resources and may include services.
+Related Terms:  Customer"
+
+Customer Value Delivery (CVD)?
+Meeting and exceeding a customer’s needs and expectations through a documented process. The process includes five-steps: understand customer needs, deliver expectations, measure results, communicate performance, and anticipate new value.
+
+Customs and Border Protection (CBP)?
+U.S. government agency charged with keeping terrorists and their weapons out of the U.S. while facilitating lawful international travel and trade.
+
+Customs Broker?
+"An entity that handles various aspects of freight handling when the freight crosses international borders.
+Related Terms: Broker"
+
+Dashboard?
+"An Interactive Contact Center program that receives Voice, E-mail, Fax, Internet and EDI (Electronic Data Interchange) contacts. Account Reps use this program to communicate with our customers.
+Related Terms: Electronic Data Interchange (EDI)"
+
+Daycab?
+"A tractor that does not have a sleeper berth. Typically used by local drivers. 
+Related Terms: Local Driver, Shuttle Driver"
+
+Deadhead?
+"The empty miles that occur when a truck is driven from previous destination to next point of origin. 
+Also known as:Repositioning"
+
+Dedicated Contract Services (DCS)?
+"An asset-based business unit of J.B. Hunt that dedicates employees and equipment to specific customer’s transportation and logistical needs.
+Related Terms: Business Unit, Division"
+
+Dedicated Lane?
+Transport lane designed to simplify and accelerate pickup and delivery for a specific shipper or receiver.
+
+Deductible?
+A set amount you pay before your plan starts covering expenses for you.
+
+Delivery?
+"A window of time when items are unloaded from a vehicle at a receiver location.
+Related Terms: Delivery Appointment, Pickup, Pickup Appointment"
+
+Delivery Appointment?
+Date and time a shipment is scheduled to deliver to a receiver.
+
+Demand Capacity?
+Number of Orders or job assignments in need of power.
+
+Demurrage?
+Fee charged by a port for loads sitting in excess time at the port, either due to lateness or the inability to pick up. Similar to dwell for ports.
+
+Department of Transportation (DOT)?
+U.S government department that regulates interstate driver and equipment safety through the Federal Highway Administration (FHWA).
+
+Dependent Care FSA?
+Stands for Dependent Care Flexible Spending Acount and it is a pre-tax benefit account used to pay for eligible dependent care services, such as preschool, summer day camp, before or after school programs, and child or adult daycare.
+
+Dependent Care Income Tax Credit?
+The Household and Dependent Care Credit is a nonrefundable tax credit available to United States taxpayers. Taxpayers that care for a qualifying individual are eligible. The purpose of the credit is to allow the taxpayer (or their spouse, if married) to be gainfully employed. Expenses that were reimbursed from a Dependent Care Flexible Spending Account are not eligible for the income tax credit. For more information about the tax credit, review IRS Publication 503 available at https://www.irs.gov/pub/irs-pdf/p503.pdf.
+
+Destination?
+A targeted, physical location for which freight is dropped.
+
+Detention?
+When a J.B. Hunt driver or equipment is held at customer beyond the agreed upon time. The customer is subject to accessorial charges for lost utilization.
+
+Detention Center?
+"Department handling detention issues. The Detention Center is notified any time there is a detention of J.B. Hunt drivers or equipment at a customer location while loading or unloading freight.
+Also known as: Utilization Service Center"
+
+Diesel Exhaust Fluid (DEF)?
+Used to lower NOx concentration in diesel exhaust emissions from diesel engines.
+
+Dispatch?
+Act of sending the driver from one place to another with load information provided to the driver.
+
+Distribution Center (DC)?
+A large storage warehouse that sometimes consolidates freight and ships it out to the other distribution centers or stores.
+
+Division?
+"Grouping of J.B. Hunt services based on how financial information is reported.
+Related Terms: Business Unit"
+
+Domicile?
+Location from which a piece of equipment is based for driver management. This location is usually the terminal closest to the driver's place of residence.
+
+DOT Inspection?
+"A safety check completed by a DOT officer of a driver and/or their equipment. The form given by the officer after the inspection is completed must be returned to corporate compliance.
+Related Terms: Department of Transportation (DOT)"
+
+Doubles?
+A trailer between 26 feet and 29 feet long that can be used singularly as a delivery trailer in congested areas or in combination with another trailer for over the road.
+
+Dray Carrier?
+"A company used to store and/or deliver freight in a limited geographical area.
+Related Terms: Intermodal, Intermodal Load, Drayage, Dray Miles"
+
+Dray Miles?
+"The mileage between a facility and rail ramp.
+Related Terms: Intermodal, Intermodal Load, Drayage, Dray Carrier"
+
+Drayage?
+"The transport of containers between shippers, rail ramps and receivers. Outside carriers may be used to help with drayage. At times, asset trucks are used to assist with pickup or delivery from Rail Ramps as well.
+Also known as: Dray
+Related Terms: Intermodal, Intermodal Load, Dray Miles, Dray Carrier"
+
+D-Rings?
+Half-circle rings attached to the inside walls of a trailer/container used for bracing loads with the aid of nylon strapping.
+
+Drive Tires?
+The tires located on the rear two axles of the tractor. Tire positions: 3,4,5,6.
+
+Driver?
+"A person who operates a commercial motor vehicle in exchange for compensation; may be a J.B. Hunt employee (sometimes called a “Company Driver”) or an independent contractor, such as an Owner Operator, Lease-Purchase Operator, or a driver working for another Motor Carrier.
+
+ Related Terms: Company Driver, J.B. Hunt Driver, Owner Operator, Lease-Purchase Operator, Independent Contractor"
+
+Driver Assist?
+Freight in which the driver must assist with the unloading process at an additional cost to the customer.
+
+Driver Count?
+When the driver counts the number of pieces contained in the shipment as it is being loaded or unloaded.
+
+Driver Documentation Database (DDD)?
+A database that holds all documentation relating to a driver such as safety incidents, training, and discipline.
+
+Driver Load?
+"Freight loading service provided by the driver at the additional cost to the customer.
+Related Terms:  Driver Unload, Spotted Trailer"
+
+Driver Personnel (CDP)?
+"J.B. Hunt department that manages driver recruiting, hiring, and retention.
+
+Formally known as: Corporate Driver Personnel (CDP)"
+
+Driver Unload?
+"Freight unloading service provided by the driver at an additional cost to the customer to unload the commodity.
+Related Terms: Driver Load, Spotted Trailer"
+
+Drivewyze?
+"OBC Peoplenet Application that provides bypasses to commercial vehicles as they approach participating state highway weigh station 
+Related Terms: Weigh Stations, Scale Bypass"
+
+Drivewyze Blacklist?
+"An OBC Report that indicates which JBH trucks do not utilize the Drivewyze Application within Peoplenet
+Related Terms: Weigh Stations, Scale Bypass"
+
+Drop and Hook?
+Disconnecting one trailer and attaching another without loading or unloading.
+
+Drop Trailer?
+"A trailer that is dropped off at a location for the receiver to unload.
+Related Terms: Receiver, Trailer Pool"
+
+Drop Yard?
+A lot used to drop loaded and/or empty trailers for future delivery or use. If no supervisor is present it is considered an unmanned yard.
+
+Dry Freight?
+Freight other than produce and/or refrigerated product.
+
+Dry Van?
+"Service/equipment type for hauling dry freight.
+Also known as: Dry Trailer, Van"
+
+Dunnage?
+The scrap wood or materials that were used to brace the load and are left in the trailer after it’s unloaded.
+
+Duty Status?
+"On a driver’s logs, duty status states what action the driver is performing at a given time.
+Examples:
+· Off Duty
+· Driving
+· On Duty Not Driving
+Related Terms: Log"
+
+Earliest Available Appointment?
+The earliest appointment during which the commodity can arrive at a location.
+
+Electronic Control Module (ECM)?
+Any embedded system in automotive electronics that controls one or more of the electrical systems or subsystems in a vehicle.
+
+Electronic Data Interchange (EDI)?
+A document standard used to communicate between two or more digital entities exchanging data.
+
+Electronic Load Tendering (ELT)?
+"Part of the EDI system; used by customers to tender loads to J.B. Hunt.
+Related Terms: Electronic Data Interchange (EDI)"
+
+Electronic Logging Device (ELD)?
+"An electronic solution that enables drivers to easily track Hours of Service compliance.
+Related Terms: Hours of Service (HOS)"
+
+Electronic On-Board Recorder (EOBR)?
+A device hooked into the truck which transmits useful management information such as truck location, speed, and idle time.
+
+Empty Call (E-Call)?
+"Time and information entered related to the completion of the final delivery on a load, including pieces, weight, bill of lading number, who signed for the product, etc.
+Also known as: E-Call"
+
+Empty Miles?
+"Occurs when a truck drives without carrying a customer's freight.
+Related Terms: Loaded Miles"
+
+Endorsements?
+Authority in addition to a standard CDL to transport specific commodities or equipment. Ex. Hazardous Materials, Tanker, Combined Hazardous Material and Tanker, and Doubles.
+
+Enterprise Order Management (EOM)?
+J.B. Hunt system for creating orders and approving or denying customer requests. It also provides the ability to create work orders for hand-off to the Load Planning domain.
+
+Enterprise Transportation Planner (ETP)?
+An internally developed JBH proprietary data analysis workbenchcapable of assessing, solving (optimizing or approximating) and displaying transportation datasets and the solutions for multiple types of transportation and logistics problems and scenarios.
+
+Entry Number?
+"Assigned code used by a broker or importer as the beginning three characters of the number for all Customs and Border Protection (CBP) entries, regardless of where the entries are filed.
+Related Terms: Broker, Customs and Border Protection (CBP), Importer"
+
+Equipment?
+"Any device that pushes, pulls, or is utilized in any fashion to complete J.B. Hunt business activities.
+Related Terms: Equipment Assets, Handling Equipment, Operational Equipment"
+
+Equipment Assets?
+"Company assets which are depreciated.
+Related Terms: Equipment"
+
+Equipment Requirement?
+"Requirements that are explicitly supplied by a solicitor for the type of equipment needed to achieve the movement of freight. These requirements may also be implied by the commodity, size, or weight of the freight for oversized loads. Equipment Requirements may also be specified in the contracts.
+Related Terms:  Equipment"
+
+Equipment Type?
+"Description of the type of equipment used to perform freight services for a customer. 
+Examples: 53 Ft Trailer, Container, Refrigerated, Tanker, Flatbed, Yard Truck, Daycab, Sleeper, etc.
+Related Terms: Customer, Equipment, Equipment Requirement, Unit Type (Maintenance)"
+
+Estimated Ready Time (ERT)?
+Time when the driver or tractor will be ready and available for their next dispatch.
+
+Estimated Time of Arrival (ETA)?
+The expected time a driver will arrive at a facility and/or point of reference.
+
+Estimated Time of Availability (ETA)?
+Time the driver will become available again to be dispatched on another order.
+
+E-Track?
+A system of metallic tracks inside of enclosed trailer used to secure cargo during transport.
+
+Expedited?
+Shipment that requires accelerated service. Shipping services such as Air Freight, Team loads, high speed rail, & guaranteed LTL delivery before a specified time.
+
+Expense Reports?
+A report that tracks expenses incurred during the course of performing necessary job functions.
+
+Experian?
+"Company used for credit checks and approvals
+Related Terms: Accounts and Locations"
+
+External User Management (EUM)?
+"Back-end system for EUS. There is no User Interface for this system.
+Related Terms: External User Security (EUS)"
+
+External User Security (EUS)?
+"Front-end system for EUM. This system has a User Interface.
+Related Terms: External User Management (EUM)"
+
+Extreme Length?
+"The maximum commodity length which usually can and will exceed the normal trailer limitations.
+Related Terms:  Commodity"
+
+EZPass?
+"A Toll transponder which covers New England and North Eastern States 
+Related Terms: Bestpass, Toll"
+
+Fifth Wheel (5th)?
+The piece of equipment/coupler on the tractor that secures the trailer to the tractor.
+
+FileNet?
+Enterprise digital file storage system used by J.B. Hunt for storing images and various electronic documents such as Delivery Receipts, Bills of Lading, and Invoices.
+
+Final Mile Services (FMS)?
+"An offering of the Dedicated Contract Services (DCS) business unit. It is marketed to shippers who deliver to residential addresses, have complex installation requirement and/or want to take advantage of J.B. Hunt's nation-wide warehouse and shuttle network.
+Related Terms: Dedicated Contract Services (DCS)"
+
+Fingerprinting?
+"When the driver touches every piece of commodity during the loading and/or unloading process.
+Related Terms: Driver Load, Driver Unload"
+
+First Seat Driver?
+"Primary driver of a truck.
+Related Terms: Second Seat Driver, Single Seat Driver"
+
+Fixed Barrier Toll Road?
+"A barrier toll system, open toll system, is a method of collecting tolls on highways using toll barriers at regularly spaced intervals on the toll road's mainline 
+Related Terms: Toll"
+
+Flatbed Trailer?
+A platform trailer without permanent sides or roof. Normally used to haul building materials or product that is unable to be palletized.
+
+Flatcar?
+Rail car that supports one trailer or two containers for intermodal transit.
+
+Fleet Code?
+"A unique, alphanumeric code created by J.B. Hunt that is assigned to a group of equipment and resources for management purposes.
+Example: DCS ODSC1"
+
+Fleet Manager (FM)?
+J.B. Hunt personnel responsible for the coordination and performance of a specific group of drivers. Supervises drivers and reports to the Operations Manager.
+
+Flexible Truck Assignment Program (FTAP)?
+"Removing drivers from trucks when they take time off or switching drivers to other trucks to maximize utilization of equipment and manpower. 
+Also known as: Slipseat"
+
+Flip (JBI)?
+When a container is switched from one chassis to another, usually a bad order chassis to a good order chassis.
+
+Flip (Load)?
+When one business unit or fleet code assigns power responsibility to another for a specific load. This assists with the tracking and revenue transfer of services performed.
+
+Floating?
+Shifting gears without using the clutch pedal.
+
+FMCSA?
+Federal Motor Carrier Safety Administration
+
+Force Majeure?
+Greater force or act of God. Unforeseeable circumstances that prevent someone from fulfilling a contract.
+
+Freight?
+Cargo that is being shipped.
+
+Freight Broker?
+"A non-asset entity that accepts loads on behalf of a shipper and finds carriers for the load. J.B. Hunt’s ICS business unit is considered a freight broker.
+Related Terms: Broker, Integrated Capacity Solutions (ICS)"
+
+Freight Forwarder (NVOCC)?
+"A person or company that organizes shipments for individuals or corporations to get goods from the manufacturer or producer to a market, customer or final point of distribution. They contract with a carrier or often multiple carriers to move the goods.
+Also known as:  Non-Vessel Operating Common Carrier (NVOCC)"
+
+Freight Manager 2 (FM2)?
+All-in-one application used by Intermodal (primary), Truck (secondary), DCS (tertiary), and ICS.
+
+Gator?
+Tire rubber left behind on the road.
+
+General Commodity?
+"The type of product that a customer is shipping, which includes raw materials and finished goods. J.B. Hunt is allowed by the Interstate Commerce Commission to transport all commodities other than explosives and nuclear wastes. However, there are select commodities J.B. Hunt chooses not to haul. 
+Also known as: Commodity"
+
+Geo Code?
+The exact geographical coordinate for a physical address.
+
+Geo Fence?
+A virtual boundary that is created around shippers and receivers. When a truck or trailer crosses this virtual boundary, a systematic response is generated to show the equipment’s arrival or departure from the respective location.
+
+Geocoding?
+Geocoding is the process of converting an address into spatial data and associating the exact geographical coordinates for that address. Geographical information systems (GIS) are referenced to help find the coordinates of a place or address. The process of geocoding is used at J.B. Hunt for the purpose of providing accurate efficient routing, directions to drivers, and displaying maps within mobile apps and web views.
+
+Glad Hand?
+The coupling device that connects the airlines from the tractor to the trailer.
+
+Global Positioning System (GPS)?
+Processes location for J.B. Hunt OBC program.Related Terms: Onboard Computer (OBC)
+
+Good Order Unit (Green Tag)?
+"A unit that is roadworthy, rail-ready, and ready to be used
+Related Terms: Bad Order Unit"
+
+Good standing?
+Employees should not have any Corrective Action Notices or other disciplinary counseling on file (including attendance within the last 6 months).
+
+Good To Go?
+"A Toll sticker which covers the WA State Good To Go Toll Roads
+Related Terms: Toll"
+
+Gooseneck?
+A trailer that uses a kingpin, ball and socket coupling, or other similar trailer connection method located above and forward of the rearmost axle of the towing vehicle. The forward-most part of the trailer is arched similar to a goose’s neck.
+
+Guaranteed Delivery?
+Delivery is guaranteed to be on time.
+
+Handling Equipment?
+"A mechanical equipment that is used for the movement, storage, control and protection of the commodity throughout the hauling process. 
+Also known as: Handling Unit 
+
+  
+Related Terms: Equipment"
+
+Hardship Withdraw?
+You can withdraw money from your account for certain IRS defined financial hardships. For more information about financial hardship withdrawals, refer to your 401(k) Summary Plan Description.
+
+Hazard Class?
+"The indicator of the classification of the hazardous material. The classification is typically broken down into nine classes (primary) and sub-classes (secondary).
+1. Explosives
+a. 1.1 – Mass explosion hazard
+b. 1.2 – Projection hazard
+c. 1.3 – Predominately a fire hazard
+d. 1.4 – No significant blast hazard
+e. 1.5 – Very sensitive explosives/blasting agents
+f. 1.6 – Extremely insensitive detonating devices
+2. Gases
+a. 2.1 – Flammable Gases
+b. 2.2 – Non-flammable, non-toxic compressed gases
+c. 2.3 – Gases toxic by inhalation
+3. Flammable and Combustible Liquids
+4. Flammable Solids/Combustible/Danger when Wet
+a. 4.1 – Flammable solids
+b. 4.2 – Spontaneously combustible materials
+c. 4.3 – Dangerous when wet materials
+5. Oxidizers and Organic Peroxides
+a. 5.1 – Oxidizers
+b. 5.2 – Organic Peroxides
+6. Toxic Materials and Infectious Substances
+a. 6.1 – Poisonous Materials
+b. 6.2 – Infectious Substances
+7. Radioactive Materials
+8. Corrosive Materials
+9. Miscellaneous Dangerous Goods
+Also known as: Primary Class
+Related Terms: Hazmat, Packing Group"
+
+Hazardous Material (Hazmat)?
+"A standardized categorization of hazardous materials. Hazardous materials are solids, liquids, or gases that can harm people, other living organisms, property or the environment.
+Related Terms: Hazard Class, Packing Group, UN Marking System"
+
+Hazmat Packing Group?
+"The United Nations (UN) assigns a packing group classifying the regulated material furtherby the amount of risk each material poses during transportation. The packing group also determines the degree of protective packaging required.
+I – Greatest Danger
+II – Medium Danger
+III – Least Danger Class 
+Note:Class 2, Division 6.2 and Class 7 have no packing groups
+Related Terms: Hazard Class, Hazmat, UN Marking System"
+
+Head-Haul Market?
+High outbound freight volume areas. Top destinations to target when soliciting freight from customers.
+
+Health Care FSA?
+Stands for Health Care Flexible Spending Account and it lets you use pre-tax dollars to pay for eligible health care expenses for you, your spouse, and your eligible dependents.
+
+Health Savings Account?
+A savings account used in conjunction with a high-deductible health insurance policy that allows users to save money tax-free against medical expenses. The abbreviation commonly used is HSA.
+
+High Value?
+When the value of a commodity being hauled is greater than the standard liability amount.
+
+High-Deductible Health Plan?
+A health plan with higher deductibles that encourages you to focus on how you spend your healthcare dollars. This plan is designed to be paired with a tax-advantaged Health Savings Account (HSA).
+
+High-deductible health plan?
+A health plan with higher deductibles that encourages you to focus on how you spend your health care dollars. This plan is designed to be paired with a tax-advantaged Health Savings Account (HSA).
+
+Highway Use Tax (HUT)?
+The Highway Use Tax Law requires a HUT or AFC decal to be affixed to each motor vehicle. A HUT decal is required for each tractor and any truck that is required to have a HUT certificate of registration (C of R) to operate on New York State public highways and does not transport automotive fuel.
+
+Holiday Delivery?
+"Customer accepts product deliveries on holidays.
+Related Terms: Appointment, Weekend Delivery"
+
+Home Center?
+A pre-determined vendor that does scheduled mechanical work. The driver is permanently assigned, and this is the location of his/her time off. The truck is left at the vendor while mechanical work is being done.
+
+Hoppers?
+A type of open-top trailer used to haul grain, corn, etc.
+
+Horizon Toll Sticker?
+"A Toll sticker which covers the FL, OK, KS, and TX Toll Roads
+Related Terms: Bestpass, Toll"
+
+Host?
+J.B. Hunt’s legacy system used for all major functions within J.B. Hunt. This system is slowly being replaced.
+
+Hot Load?
+A load that could cause a plant/facility to shut down if not delivered on time or a load, that if not delivered on time, will result in the loss of a customer's business.
+
+Household Goods Carrier Guide?
+"Lists the Interstate Commerce Commission's (ICC) approved mileage from city to city in the United States. This is the mileage guide J.B. Hunt uses in evaluation of mileage.
+Related Terms: HUB, Household Goods Mileage"
+
+Household Goods Mileage (HHG)?
+"Used to calculate driver pay in the trucking industry. It is supposedly the shortest route from shipper zip code to consignee (receiver) zip code. HHG is also known as zip code miles or short miles.
+Related Terms: HUB, PC Miler, Household Goods Carrier Guide"
+
+HUB?
+"Odometer miles from the truck. Is sometimes used for billing and payroll versus Household Goods Mileage (HHG) or PC*Miler
+Related Terms: PC Miler, Household Goods Mileage (HHG), Household Goods Carrier Guide"
+
+IC Toll Agreement?
+"A Toll Agreement between JBH and IC Driver to utilize the JBH Toll Transponders
+Related Terms: Toll, Independent Contractor (IC)"
+
+Idle?
+Running a vehicle’s engine when the vehicle is not in motion.
+
+Importer?
+Someone who brings merchandise, commodities, etc. into the United States from a foreign country for use, sale, processing, re-export, or services.
+
+In Bond?
+"A Canadian shipment type for goods to clear through the Canada Border Services Agency (CMSA). It allows for the inland movement of goods that have not yet obtained Customs release.
+Related Terms: Canada Border Services Agency, In Bond Charge, In Bond Order"
+
+In Bond Charge?
+"Charge associated with cargo moving in bond.
+Related Terms:  In Bond"
+
+In Bond Order?
+"An import or export shipment that has not yet cleared customs.
+Related Terms: In Bond"
+
+Inbound Capacity (IB)?
+"A limitation on the number of deliveries that can be set into an area and is only used when areas continually receive more inbound than they can reload back out due to high customer demand. Both Inbound and Outbound capacity counts start as a negative number showing available capacity and reduce to zero when no capacity is left.
+Related Terms:Outbound Capacity"
+
+Incident?
+Vehicular happening—non-accident related—resulting from carelessness, unawareness, ignorance, or a combination of causes.
+
+Indemnity?
+Security or protection against a loss or other financial burden. It is common to see indemnity language inside transportation agreements. Where the carrier will indemnify the shipper.
+
+Independent Contractor (IC)?
+"The legal term for a person or business performing services for another pursuant to a contract and who is not subject to the other’s control regarding the manner and means of performing the services. As commonly used within J.B. Hunt, a non-employee individual who provides driving or delivery services on behalf of J.B. Hunt on a contractual, as-needed basis using its own (purchased or leased) equipment and operating under J.B. Hunt’s motor carrier authority. Contract Carriers are also classified as Independent Contractors. 
+Related Terms: Owner Operator, Lease-Purchase Operator, Contract Carrier"
+
+Ingate?
+"Taking a trailer “through/in the gate” at the rail or customer location.
+Related Terms: Ramp"
+
+Inside Delivery?
+Delivery items need to be unloaded further than 40 ft away from the truck.
+
+Integrated Capacity Solutions (ICS)?
+"J.B. Hunt's brokerage division
+Related Terms:Business Unit, Division"
+
+Inter-Box Connector (IBC)?
+Locking mechanism that holds stacked containers securely together
+
+Intermodal (JBI)?
+"J.B. Hunt's division that handles transportation of shipping containers via railroad.
+Related Terms: Dray Carrier"
+
+Intermodal Load?
+"Load that is going to be put on the railroad at some time during its transit to the destination.
+Related Terms: Intermodal, Intermodal Dray"
+
+International Fuel Tax Agreement (IFTA)?
+"An agreement between the contiguous 48 states of the United States and the Canadian provinces, to simplify the reporting of fuel use by motor carriers that operate in more than one jurisdiction.
+a. [An operating carrier with IFTA receives an IFTA license and two decals for each qualifying vehicle it operates. The carrier files a quarterly fuel tax report. This report is used to determine the net tax or refund due and to redistribute taxes from collecting states to states that it is due.]"
+
+Interstate Carrier?
+A carrier that is allowed to transport freight from one state to another.
+
+Interstate Commerce Commission (ICC)?
+Federal agency established by Congress to regulate all pricing of motor carriers.
+
+Intrastate Carrier?
+A carrier that is restricted to transportation of freight within a particular state’s boundaries.
+
+Invalid Toll Tag?
+"A notification by the EZPass Tolling System which indicates an EZPass transponders low battery or low signal alert, Toll Tag Missing or Canceled
+Related Terms: Toll"
+
+Inverter?
+An electrical device or circuitry that changes direct current (DC) to alternating current (AC). It provides the AC power source on trucks.
+
+Irregular Route Carrier?
+A carrier who transports freight without set routes.
+
+J.B. Hunt Driver, or Company Driver?
+A Driver who is an employee of J.B. Hunt and uses equipment owned or leased by J.B. Hunt to perform services. This term should never be used to refer to an Independent Contractor, Owner Operator, Lease-Purchase Operator, or a driver working for a Contract Carrier.
+
+J.B. Hunt Online Load Tendering (JOLT)?
+System for customers who send load information via the internet vs. phone call or fax.
+
+Jake Brake?
+"A compression release engine brake used within some diesel engines. When activated, it opens exhaust valves in the cylinders after the compression cycle releasing the compressed air trapped in the cylinders to slow the vehicle. Commonly used to prevent heavy trucks from accelerating out of control while driving on steep downhill grades.
+Also known as: Engine Retarder"
+
+Just in Time (JIT)?
+Loads that are very time sensitive and must be there at a specific time or could possibly shut down the production line at a customer.
+
+Key Performance Indicator (KPI)?
+Common language to describe measurable activity, such as miles per stop, cost per mile, on-time service percentage, etc.
+
+King Pin?
+A large pin under the nose of the trailer or chassis that connects to the fifth wheel which keeps the trailer attached to the tractor
+
+Landing Gear (Dolly Legs)?
+Retracting legs which support the front of a trailer when it is not connected to a tractor
+
+Landmark?
+Customer code used to identify an asset (trailer) location in the Terion Website.
+
+Lane?
+A shipment route from origin to final destination.
+
+Late Train?
+The container has not de-ramped from the rail and is, therefore, unavailable for dispatch.
+
+Layover?
+The non-working time that a road driver spends away from his/her home terminal before being dispatched to another destination (i.e. the time between loads).
+
+Lease-Purchase Operator (LP)?
+An Independent Contractor that leases a truck from a third party with the intent to purchase the truck through recurring payments.
+
+Less-Than-Truckload (LTL)?
+When carriers pick up and deliver small amounts of freight from various shippers and deliver them to various receivers. Trucking companies like J.B. Hunt, Parcel Management, Yellow Freight, UPS, ABF, and Roadway handle LTL shipments.
+
+Letter of Indemnity (LOI)?
+"A document which the writer issues to another party agreeing to protect them from liability for the performance of certain acts.
+1. For international transportation, a bank may issue a Letter of Indemnity to a carrier to persuade a shipper to release the cargo when a negotiable Bill of Lading (BOL) has been issued but is not available for surrender to the carrier when they wish to pick it up. A Letter of Guarantee may also be used.For export shipments, some carriers may allow a shipper to issue a Letter of Indemnity in order to secure clean Bills of Lading"
+
+Letter of Intent (LOI)?
+"A document outlining an agreement between two or more parties before the agreement is finalized. 
+The concept is similar to the so-called heads of agreement and may be Asset Purchase Agreements, Share Purchase Agreements, Joint-Venture Agreements, or any agreement which aims at closing a financially large deal.Letters of Intent resemble written contracts but are usually not binding on the parties in their entirety. 
+Many, however, contain provisions that are binding, such as non-disclosure agreements, a covenant to negotiate in good faith, or a ""stand-still"" or ""no-shop"" provision promising exclusive rights to negotiate. 
+A Letter of Intent may be interpreted as binding the parties if it too closely resembles a formal contract."
+
+Line of Business (LOB)?
+A general term that describes the products or services offered by a business or manufacturer and is used as a way of grouping various billing parties of customer accounts.
+
+Liquified Natural Gas (LNG)?
+Natural gas (predominantly methane, CH4, with some mixture of ethane C2H6) that has been cooled down to liquid form for ease and safety of non-pressurized storage or transport.
+
+Live Load?
+When a driver and equipment are present at the time of loading.
+
+Load?
+"The combining of orders for transport.
+Related Terms:Live Load, Load Number, Load Switch, Load Tender"
+
+Load and Ride Solutions (LARS)?
+"LARS assists customers with loading diagrams, weight distribution and blocking and bracing techniques to ensure loads comply with DOT and AAR guidelines.
+Related Terms: Department of Transportation (DOT), Association of American Railroads (AAR)"
+
+Load Number?
+"A number used to identify a particular shipment.
+Also known as:Pro Number, Order Number
+Related Terms: Load"
+
+Load Switch?
+The act of exchanging loads between two drivers at some point en route to provide On-time Service, increased utilization and meet driver due home dates.
+
+Load Tender?
+Pricing and description for a load provided to a carrier before pickup, much like a contract .
+
+Loaded Call (L-Call)?
+When a truck has finished loading at a shipping facility.
+
+Loaded Miles?
+"The miles that occur when a truck drives while carrying a customer's freight.
+Related Terms: Empty Miles"
+
+Local Distribution Center (LDC)?
+"A type of warehouse in the Final Mile network that services a local area.
+Example: The Tulsa LDC services Northwest Arkansas.
+Related Terms: Distribution Center (DC), Regional Distribution Center (RDC)"
+
+Local Driver?
+"Driver who is home every night and shuttles loaded and empty trailers up to 75 miles from and to their home terminal.
+Also known as: Shuttle Driver"
+
+Locking Pins?
+Pins that lock a chassis to a container so it does not slide off on the road.
+
+Log?
+A form required by the Department of Transportation (DOT) to be completed daily by a driver. This form should document a driver's on-duty driving time, on-duty not-driving time, and off-duty time. DOT regulations require and limit the time spent in each area.
+
+Logistics Carrier Group (LCG)?
+A division of J.B. Hunt Logistics that provides additional carrier support to customers when VAN division cannot meet that customer's requirements (i.e. reefers, flatbed, LTL, etc.)
+
+Logistics Coordinator (Load Planner)?
+"For Intermodal: In charge of preplanning loads on drivers and assigning new loads throughout a driver’s shift.
+Related Terms: ICS"
+
+Logistics Manager (LM)?
+Previously: Regional Logistics Manager (RLM)
+
+Logistics Solutions Representative (LSR)?
+Previously: Logistics Sales Coordinator (LSC)
+
+Low Balance?
+"A notification by the EZPass Tolling System which indicates an EZPass transponders low battery or low signal alert, Toll Tag Missing or Canceled
+Related Terms: Toll"
+
+Lumper?
+Individual hired to load or unload a trailer.
+
+Maintenance Medication?
+Medications you take on a regular basis to help manage long-term conditions such as asthma or high blood pressure.
+
+Maintenance Outsource Coordinator (MOC)?
+Road Service personnel that calls and pays outsource Vendors to repair rolling equipment (trucks/trls/Moffets/Forklifts/Pallet Jacks)
+
+Manifest?
+A document that describes the contents of a shipment in greater detail than a bill of lading. Commonly used as a checklist during unloading.
+
+Maritime?
+Transport of the cargo connected with the sea in relation to navigation, shipping, etc.
+
+Marketing Area?
+Determined by the amount of freight volume and defined by Zip/Postal Codes.
+
+Marketing, Pricing, Activity Communication Tool (MPACT)?
+Lotus Notes program used by Regional Marketing Managers to record customer visits, activities, and rare publication.
+
+Matching Contribution?
+Money J.B. Hunt puts into your 401(k) Plan on your behalf.
+
+Melissa?
+"Company that helps to harness Big Data, legacy data, and people data (names, addresses, phone numbers, and emails).
+Related Terms: Accounts and Locations"
+
+Mission Control?
+A Graphical User Interface (GUI) program that supplies valuable information for the Fleet Manger at the time of a driver's phone call.
+
+Moffett?
+Truck mounted forklift.
+
+Monitor Code?
+Used by a business unit to help keep a close watch on and order or load.
+
+Motor Carrier?
+A company that provides truck transportation. There are two types of motor carriers: private and for-hire carriers.
+
+Motor Vehicle Record (MVR)?
+Driving record that shows driving history. This includes information about the driver’s license as well as information about traffic violations. Needed to do drivers annual reviews
+
+Multi-Pickup/Delivery Load?
+"A shipment that has more than one pickup and/or delivery.
+Also known as: Multi-Stop Load, Multiple Stop Load"
+
+Multiple Stop Load?
+"A shipment which has more than one intermediate pickup and/or delivery that falls between the original shipper and final receiver.
+Also known as: Multi-Stop Load, Multi-Pickup/Delivery Load"
+
+Must Arrive by Date (MABD)?
+Some customers provide a date by which a load must deliver in order to avoid a service failure. This term is often used by Walmart.
+
+Must Deliver No Later Than Requested?
+Appointment that indicates that the commodity must be delivered to its destination by the requested date.
+
+Must Deliver On?
+Appointment that indicates that the commodity must be delivered to its destination precisely on the requested date.
+
+National Account Executive (NAE)?
+
+
+National Account Manager (NAM)?
+Area manager responsible for specific National Account customer.
+
+National Motor Freight Classification (NMFC)?
+"A standard that provides a comparison of commodities moving in interstate, intrastate and foreign commerce. It specifies minimum packaging requirements to ensure that goods are adequately protected and can be handled and stowed in a manner that is reasonably safe and practicable for withstanding the normal rigors of the less-than-truckload environment.
+Commodities are grouped into one of 18 classes:
+1. Class 50 (Over 50 lbs/cu ft): Fits on standard shrink-wrapped 4X4 pallet, very durable
+2. Class 55 (35-50 lbs/cu ft): Bricks, cement, mortar, hardwood flooring
+3. Class 60 (30-35 lbs/cu ft): Car accessories and car parts
+4. Class 65 (22.5-30lbs/cu ft): Car accessories and car parts, bottled beverages, books in boxes
+5. Class 70 (15-22.5 lbs/cu ft): Car accessories and car parts, food items, automobile engines
+6. Class 77.5 (13.5-15 lbs/cu ft): Tires, bathroom fixtures
+7. Class 85 (12-13.5 lbs/cu ft): Crated machinery, cast iron stoves
+8. Class 92.5 (10.5-12 lbs/cu ft): Computers, monitors, refrigerators
+9. Class 100 (9-10.5 lbs/cu ft): Boat covers, car covers, canvas, wine cases, caskets
+10. Class 110 (8-9 lbs/cu ft): Cabinets, framed artwork, table saws
+11. Class 125 (7-8 lbs/cu ft): Small Household appliances
+12. Class 150 (6-7 lbs/cu ft): Auto sheet metal parts, bookcases
+13. Class 175 (5-6 lbs/cu ft): Clothing, couches stuffed furniture
+14. Class 200 (4-5 lbs/cu ft): Auto sheet metal parts, aircraft parts, aluminum table, packaged mattresses
+15. Class 250 (3-4 lbs/cu ft): Bamboo furniture, mattress and box spring, plasma TV
+16. Class 300 (2-3 lbs/cu ft): Wood cabinets, tables, chairs setup, model boats
+17. Class 400 (1-2 lbs/cu ft): Deer antlers
+18. Class 500 (Less than 1 lb/cu ft): Bags of gold dust, ping pong balls
+Related Terms: Class Code, Commodity, Less-Than-Truckload (LTL)"
+
+Norpass?
+"A tranponder that provides bypasses to commercial vehicles as they approach participating state highway weigh stations in the NW
+Related Terms: Weigh Stations, Scale Bypass"
+
+Nose of trailer?
+Front end of trailer, where the tractor and electrical wires connect.
+
+NT Order Entry?
+PC-based load entry system.
+
+NVOCC?
+"A person or company that organizes shipments for individuals or corporations to get goods from the manufacturer or producer to a market, customer or final point of distribution. They contract with a carrier or often multiple carriers to move the goods.
+Also known as: Freight Forwarder"
+
+Observations?
+Management observation of a driver’s performance. This may include driving, entering and exiting the tractor, backing, or making a pick up/delivery. The purpose is to insure the driver is following proper safety protocol. These are used to reward good habits as well as correct negative behavior.
+
+Omniture?
+Online marketing and web analytics software.
+
+On Time, In Full (OTIF)?
+Wal-Mart freight appointment specifications.
+
+Onboard Computer (OBC)?
+"Satellite system used to send Electronic Data Interchange (EDI) transactions regarding load disposition—booked, completed, in-transit, etc.
+Related Terms: Electronic Data Interchange (EDI)"
+
+Operating Ratios (OR)?
+Measure expenses as a percentage of revenue and are widely used in trucking as a measure of profitability and financial health and stability. An operating ratio above 100 indicates a company is losing money before taxes, interest, depreciation and other charges not included in operating expenses.
+
+Operation Service Manager (OSM)?
+Oversees a group of area service managers
+
+Operational Equipment?
+"Equipment that is used to complete operational activities.
+Related Terms: Equipment"
+
+Operations Supervisor (OS)?
+Manager of a group of drivers that handles all safety and management dealings with those drivers. Work with one account and one group of drivers.
+
+ORBCOMM?
+A GPS tracking system located on our J.B. Hunt trailers and containers.
+
+Order?
+"The request for a J.B. Hunt business unit to provide a resource or service.
+Related Terms: Business Unit"
+
+Order Classification?
+"The category to which an order is classified.
+Example: Hazardous Material,High Value"
+
+Order Comments?
+Comments that are tied to a J.B. Hunt shipment, sometimes referred to as an order or load. These comments can be related to driver instructions, general dispatch information or charges related to billing.
+
+Order Number?
+A number used to identify a particular shipment.
+
+Out of Service (OOS)?
+When a violation is found during a DOT inspection, and the DOT states that it must be repaired prior to moving due to a safety hazard. The driver cannot leave the inspection site until the violations are corrected.
+
+Outbound Capacity?
+The capacity to move loads out of area as a pickup. Both Inbound Capacity and Outbound Capacity counts will start as a negative number showing available capacity and reduce to zero when no capacity is left.
+
+Outgate?
+The process of checking a container or trailer out of an intermodal facility.
+
+Out-of-pocket maximum?
+The maximum amount you’ll pay out-of-pocket during the year (including the deductible); plan pays 100% of remaining reasonable and customary costs during the plan year if reached.
+
+Outsourcing Allowed?
+Designates that J.B. Hunt can utilize other carriers to fulfill an order.
+
+Overage, Shortage, and Damaged (OS&D)?
+A report filed by a shipper to a carrier along with a freight claim that details.
+
+Oversize Load?
+A unit of cargo that is larger than the legally defined limits for width, length, height, and/or weight; it cannot be broken down into smaller units.
+
+Over-the-Road Driver (OTR)?
+Driver that delivers freight from point to point in the continental United States and Canada.
+
+Overweight Load?
+Load is over legal weight. CA legal weights: 12,000 pounds for steer axel, 34,000 pounds for drive axel, and 34000 pounds for tandems or rear axle for a gross weight of 80,000 pounds max.
+
+Owner Operator?
+"A self-employed commercial truck driver or a small business that operates as a Motor Carrier. As commonly used within J.B. Hunt, an Independent Contractor driver contracted to provide services operating under J.B. Hunt’s motor carrier authority. Also a single-truck or small Contract Carrier. 
+Related Terms: Independent Contractor, Contract Carrier"
+
+PACE?
+Payroll and Invoicing Program used in DCS.
+
+Pallet?
+A platform, usually wooden, on which materials are placed for handling or the transport of goods.
+
+Pallet Jack?
+A hand-operated piece of machinery for hoisting and transporting pallets by means of steel fingers inserted under the top of the platform.
+
+Party Role?
+"The identifier on the specific function or usage of the entity in the business process.Examples:
+• Bill To
+• Solicitor
+• Broker
+• Site
+• Freight Forwarder"
+
+Pay Agent?
+A party used to facilitate the transfer of payment.
+
+PC MILER?
+Comprehensive trip planning software with standard routing, mileage and mapping functionality - industry standard for calculating point to point mileage.
+
+Penalty Load?
+A load when being late or having a service failure results in a monetary penalty.
+
+PeopleNet?
+The OBC unit and provider on some JB Hunt asset trucks, includes the driver’s e-logs.
+
+Permit?
+A granted written license giving J.B. Hunt authority to operate in an area/territory under prescribed rules and regulations.
+
+Pickup?
+The starting location for a load, where items are loaded into a vehicle at a shipper location to be transported to a receiver.
+
+Pickup Appointment?
+Date and time a shipment is scheduled to be picked up from a shipper.
+
+Pigtail?
+"Curly electric wire on the back of the tractor that connects the tractor and the trailer electrical transfer.
+Related Terms: 7-Way"
+
+Pilot Car?
+This service is used when moving an over-dimensional load. It generally consists of a passenger vehicle either leading or following a tractor trailer that is loaded over legal dimensions and warns the motoring traffic of this hazard.
+
+Placards?
+Signage that must be placed on some shipments that contain a hazardous material.
+
+Planning State?
+The current condition of an order in the planning phases of the order management system.
+
+Plate Trailer?
+Trailer with thinner walls, allowing for more cubic loading space.
+
+Pool Point?
+Thehub of the Spoke-Hub Distribution model where freight is consolidated and separated.
+
+Popup Fleet?
+A short-term, flexible fleet assigned to fulfill a specific customer need, especially in peak
+
+Port of Entry?
+In general, a place where one may lawfully enter a country.
+
+Port of Exit?
+In general, a place where one may lawfully exit a country.
+
+Post Trip Inspection?
+A walk around inspection of the truck and trailer/container to spot safety and mechanical issues on the equipment. Done at the end of a driver’s trip.
+
+Power Capacity Solutions (PCS)?
+Outsourced carriers contracted to haul Truckload asset trailers and freight, under their own authority.
+
+Power Unit?
+Vehicle that pulls the trailer.
+
+Power-Only?
+Truck without a trailer, provided as a service (Bobtail).
+
+Power-Only Carrier Services (PCS)?
+1-person teams who own their own trucks and are contracted to haul J.B. Hunt trailers.
+
+Pre-Arrival Review System (PARS)?
+The default Canadian shipment type for goods to clear through the Canada Border Services Agency (CBSA) by highway carrier. It allows Customs to review the broker's entry electronically prior to arrival.
+
+Preload?
+When a shipping location has a spotted trailer loaded before the driver arrives for pickup.
+
+Prepaid?
+The payment method whereby the accessorial charges are remitted to the shipper.
+
+Prepass?
+"A tranponder that provides bypasses to commercial vehicles as they approach participating state highway weigh stations
+Related Terms: Weigh Stations, Scale Bypass"
+
+Preplan (PP)?
+The assignment of a truck to a shipment prior to the truck being dispatched on the order.
+
+Preset Load?
+Determines that the solicitor is sole contact for all issues regarding the load such as appointment resets, service issues, and additional freight. A "hands off" rule is implied for other departments and the Customer Experience Representative (CER) is the only one who can contact the solicitor.
+
+Pre-Trip Inspection?
+A walk around inspection of the truck and trailer/container to spot safety and mechanical issues on the equipment. Must be performed at the very beginning of a driver’s day. Must log a minimum of 15 minutes On Duty for the inspection.
+
+Pricing Representative?
+Person who can negotiate rates with a customer.
+
+Primary Class?
+The indicator of the classification of the hazardous material. The classification is typically broken down into nine classes (primary) and sub-classes (secondary).
+
+Private Carrier?
+A not-for-hire carrier contracted to or owned by a shipper that does not offer services to the general public and operates primarily to transport its own goods. Private carriers are not required to obtain operating authority by the Federal Motor Carrier Safety Administration (FMCSA).
+
+Pro Number?
+A number used to identify a particular shipment.
+
+Profit and Loss Statement (P&L)?
+Sheet that shows a breakdown of debits and credits or profit and loss.
+
+Profitability?
+Affording profits. Yielding advantageous returns or results.
+
+Project Code?
+"For ICS: Ties a person or branch operationally to an order
+
+For DCS: Created to support a customer contract, agreement, letter-of-intent (LOI), or driver agreement."
+
+Proof of Delivery (POD)?
+Copy of the Bill of Lading signed by the receiver and used to verify receipt of load.
+
+Proper Shipping Name?
+Associated with hazardous material being shipped. As per Department of Transportation (DOT) regulations this name is to be used as a label while shipping.
+
+Published Rates?
+Legal rates published in tariff or contract.
+
+Pup Trailer?
+A trailer between 26 feet and 29 feet long that can be used singularly as a delivery trailer in congested areas or in combination with another trailer for over the road.
+
+Purchase Order (PO)?
+A commercial document and first official offer issued by a buyer to a seller, indicating types, quantities, and agreed prices for products or services.
+
+Purchased Transportation Expense (PTE)?
+"Expenses incurred by a carrier for utilizing another carrier or third-party logistics provider to perform services on its behalf. 
+Also known as: Paid Transportation Expense"
+
+Qualcomm?
+A satellite company used in OBC communication systems.
+
+Qualifying Event?
+A change in your situation — like getting married, having a baby, or losing health coverage — that can make you eligible to enroll in or make changes to your benefit coverage outside the annual Benefits Open Enrollment period.
+
+Rail Ramp Manager (RRM)?
+Manages designated rail locations within a specific region and may also manage service trucks and technicians
+
+Ramp?
+An entry point or exit point from the Intermodal network. Actual ramps are no longer used to drive trailers onto train cars. Instead, a large crane is used to pick containers up off of the chassis and stack them onto specially designed rail cars.
+
+Rate?
+Amount of money charged by J.B. Hunt to transport a shipment.
+
+Rate Quote?
+The rate quoted to a customer on a specific shipment.
+
+Rate Variance?
+Price discrepancy on a freight bill.
+
+RDPD?
+"A Work Order Status used by the breakdown team in fleet support to request an MOC of work completed on a unit to then move it to REDY
+Related Terms: REDY"
+
+Reason Code?
+A list of explanations assigned a numeric value stating cause for a shipment to be charged. Delivery Appointment, Order Status, etc.
+
+Receiver?
+The final party receiving the freight.
+
+Reconsignment?
+An action taken when the shipper/consignor, receiver/consignee, or billing party changes the routing/consignment of a load after the pickup has been completed.
+
+Redelivery?
+A redelivery can be done anytime a delivery appointment is reset after a delivery attempt is made.
+
+REDY?
+"A Work Order Status indicating that a unit’s repair has been completed repair and is ready for dispatch
+Related Terms: RDPD"
+
+Reference?
+"The source of information as it applies or is relevant to a particular order. 
+Examples: Bill of Lading, Purchase Order, Shipper ID, etc."
+
+Refrigerated trailer (Reefer)?
+Commonly referred to as a reefer, is a trailer which transports temperature-controlled commodities.
+
+Region?
+A group of market areas forming a regional area of the United States.
+
+Regional Distribution Center (RDC)?
+A type of warehouse in the Final Mile network that services Local Distribution Centers (LDC) within its region. Example: The Dallas RDC services Tulsa, Wichita and Little Rock.
+
+Regional Driver?
+Driver who is home every weekend. Will run loads anywhere from 75 to 250 miles from home terminal.
+
+Regional Maintenance Manager (RMM)?
+Manages several maintenance locations within a designated region and works directly for the Region Director
+
+Regional Operations Manager (ROM)?
+J.B. Hunt employee who oversees a group of DCS accounts or ramp locations.
+
+Regional Service Manager (RSM)?
+Related Terms: Intermodal
+
+Registry Monitoring Insurance Service (RMIS)?
+Processes carrier information based on information in a national registry.
+
+Remote Surveillance Operation (RSO)?
+J.B. Hunt facilities that have a camera security gate system.
+
+Repositioning?
+The empty miles that occur when a truck drives without carrying a customer’s load.
+
+Repower?
+Removing one tractor from a load and assigning another tractor to that load to attempt to deliver load on time.
+
+Request for Information (RFI)?
+Usually comes after RFQ or RFP and is a method for shippers to learn more information about carrier providers.
+
+Request for Proposal?
+Similar and often even synonymous with RFQ, this is where a shipper is seeking a complete design solution and pricing proposal from a potential carrier.
+
+Request for Quotation (RFQ)?
+Request from a shipper for rates from a carrier.
+
+Requester Source?
+"The origin of a customer's order request.
+Examples:
+• EDI
+• Commitment
+• Email
+• Phone"
+
+Re-Rate?
+Action taken when there is a discrepancy on the rate applied to a load.
+
+Re-Route?
+When a driver's original route changes due to customer, driver or company needs.
+
+Reset (Driver)?
+After a driver has taken 34 consecutive hours off, a driver’s hours are reset.
+
+Reset (Load)?
+When an appointment is rescheduled due to any reason causing the load to miss the original appointment.
+
+Retail Link?
+Web portal of applications hosted by Walmart.
+
+Return Merchandise Authorization (RMA)?
+Process of returning a product to receive a refund, replacement, or repair. Mostly used in the Final Mile space.
+
+Return on Invested Capital (ROIC)?
+Return on invested capital is a calculationused to assess a company's efficiency at allocating the capital under its control to profitable investments. Return on invested capital gives a sense of how well a company is using its money to generate returns. Comparing a company's return on invested capital with its weighted average cost of capital (WACC) reveals whether invested capital is being used effectively.
+
+Roll-Over Collision?
+Accident where tractor/trailer has rolled over on its side.
+
+Route?
+The designated path of travel taken or given for the transportation of an order from origin to destination. For LTL, a route is the path from consolidation to end point.
+
+Rubber Wheel?
+Intermodal crosstown completed by unloading the container off the train onto a chassis, hauled over the road with a tractor from one ramp to another, then in-gated and ramped onto to the next train line.
+
+Running Mode?
+"Specifications for a refrigerated trailer to keep the product at safe temperatures. 
+• Continuous: Compressor runs constant without shutting off.
+•Cycle Sentry: Similar to a thermostat in your home, the compressor turns on when a sensor determines that the temperature has dropped below a specified temperature level.
+•Vented: Utilizes outside air in colder climates or seasons".
+
+SaferSys?
+A wed site maintained by the Federal Motor Carrier Safety Administration (FMCSA) that displays safety statistics for all motor carriers granted authority by the DOT.
+
+Safety Performance Indicators for Drivers and Enterprise Reporting (SPIDER)?
+Safety database showing compliance, web training hours, expirations (physical, license, etc.), missing forms, high risk drivers, etc.
+
+Sales Executive (SE)?
+
+
+Sales Rotation Development Program (SRDP)?
+
+
+Seal?
+A numbered plastic or metal band placed on trailer doors after trailer is loaded at the shipper. This is used to determine if the trailer doors have been opened prior to reaching the destination.
+
+Second Seat Driver?
+Assists the First Seat Driver in his/her assigned duty and does not have the primary responsibility of an assigned piece of equipment. Second Seat Drivers are normally a spouse and must also qualify as a First Seat Driver before being hired.
+
+Segment?
+Geographical portion of a load. The distance between two locations where resources can be assigned.
+
+Selective Catalytic Reduction (SCR)?
+"Is an advanced active emissions control technology system that injects a liquid-reductant agent through a special catalyst into the exhaust stream of a diesel engine. The reductant source is usually automotive-grade urea, otherwise known as Diesel and Exhaust Fluid.
+Related Terms: Diesel Exhaust Fluid"
+
+Service Center?
+An office out of which safety and maintenance functions can be completed.
+
+Service Level?
+"The indicator of the type of service for the order.
+Options are:
+1. Standard
+2. Premium
+3. Expedited"
+
+Service Offering?
+"A particular type of transportation service that a business unit may perform. 
+Examples include over-the-road, intermodal, back-haul, flatbed, etc."
+
+Shipper?
+"The original party shipping the freight. This could be a company, organization, or individual.
+Also known as: Consignor"
+
+Shipper Count?
+The shipper owned count of the product loaded in to the trailer.
+
+Shipper ID (Ship ID)?
+"A number supplied by the shipper to identify a particular shipment. It is also the pickup number the driver uses to pick up the commodity to be shipped.
+Also known as: Ship ID"
+
+Shrink Wrap?
+Thick plastic wrap used for securing freight on a pallet or slip sheet.
+
+Shuttle Driver?
+"Driver who is home every night and shuttles loaded and empty trailers up to 75 miles from and to his home terminal.
+Also known as:Local Driver"
+
+Single Seat Driver?
+A driver who operates a truck with no other drivers assigned.
+
+Skeleton?
+The basic information of an order found in EOM. The Customer Experience Representative (CER) uses this to repeat orders so that all information can be duplicated instead of typing in all repeated information.
+
+Sleeper?
+The portion of the truck's interior designated for sleeping; it legally must contain a bed.
+
+Slip Seat?
+"Removing drivers from trucks when they take time off or switching drivers to other trucks to maximize utilization of equipment and manpower.
+Also known as:Flexible Truck Assignment Program (FTAP)"
+
+Slip Sheet?
+Thin, flat cardboard sheet on which materials are placed for handling or transportation. Used in place of pallets.
+
+Smith System?
+Collison avoidance driver training which follows five main keys for driving safely. These are: Aim high in steering, Get the big picture, Keep your eyes moving, Leave yourself an out, and Make sure they see you.
+
+Solicitor?
+"Someone who requests services from J.B. Hunt.Examples:
+1. A company that is requesting and paying for services
+2. A department within a company, but at a different location than the invoicing address
+3. A shipper acting with authority from a company
+4. A Third-Party Logistics (3PL) company who manages all of the transportation and related communications for a company"
+
+Solicitor Code?
+"Helps manage solicitor freight by:
+1. Separating a customer's freight types for better service monitoring
+2. Rolling up allocations moving from different shipper codes within a market"
+
+Specialized Business Development Consultant (SBDC)?
+
+Spill?
+Leak of a hazardous substance of material.
+
+Spoke-Hub Distribution?
+Used in the LTL and parcel space where freight is consolidated and separated at multiple locations called Pool Points leading up to delivery.
+
+Spot Price (Quote)?
+A rate quoted when customer has no published rates for a freight movement (usually for one-time loads) or to cover loads moving immediately while rate is being published.
+
+Spotted Trailer?
+Trailer left at shipping or receiving location for customer to load or unload without a driver or tractor present.
+
+Sr Capacity Procurement Representative (Sr CP Rep)?
+Previously: Sr Carries Sales Coordinator (Sr CSC)
+
+Sr Customer Experience Representative - ICS (Sr CER)?
+Previously: Sr Transportation Representative (Sr TR)
+
+Sr Logistics Manager (Sr LM)?
+Previously: Transportation Manager (TM)
+
+Sr Logistics Solutions Representative (Sr LSR)?
+Previously: Sr Logistics Sales Coordinator (Sr LSC)
+
+Stack Bunk?
+A tractor designed to accommodate bunk style beds.
+
+Standard Carrier Alpha Code (SCAC)?
+Unique code used to identify transportation companies. It is typically two to four alphabetic letters long. It was developed by the National Motor Freight Traffic Association in the 1960s to help the transportation industry computerize data and records. Used within JBH as an internally generated code to identify carriers in EUS.
+
+Standard Operating Procedure (SOP)?
+Guideline on how to perform a specific action.
+
+Steel Wheel?
+Intermodal crosstown completed by sending the container on a flatcar over the rail from one rail line ramp to another rail line ramp.
+
+Steer Tires?
+Front axle tires on the tractor.
+
+Stop Number?
+The order a pick up or delivery is to be made on a load.
+
+Suggested Appointment?
+A date and time programmatically estimated by J.B. Hunt based on transit time and known activities at customer locations. This can be used even if an appointment is not provided by a customer.
+
+Sunpass?
+"A Florida Prepaid Toll Program
+Related Terms: Toll"
+
+Supplier?
+The party that makes goods or services available to companies.Also known as: Vendor
+
+Supply Chain?
+A combination of the sources of raw materials, inventory, shipping, sales, marketing, information technology and strategic planning.
+
+Swing Door?
+Swing out rather than roll up that are closed with locking rods
+
+Switch?
+The act of exchanging loads between two drivers at some point en route to provide on time service, increased utilization, and meeting driver due home dates.
+
+Tail of trailer?
+Portion of trailer that is located nearest the doors. The rear of the trailer.
+
+Tailgating Load (Tailgate)?
+When a driver moves freight inside the trailer to the rear (nearest the door) of the trailer for the customer to unload.
+
+Tandem?
+A set of two axels, one behind the other.
+
+Tanker?
+An enclosed cylinder-shaped tank used for hauling bulk quantities of liquid.
+
+Tariff?
+"A tax or duty to be paid on a particular class of imports or exports. 
+A list of taxes on imports or exports. A list of the fixed charges made by a business,especially for use of gas, electricity, or a mobile phone."
+
+Tariff Miles?
+The miles from city to city that J.B. Hunt charges the customer.
+
+Team Drivers?
+A team of two or more drivers who ride together and drive the same truck in shifts allowing the truck to remain in motion almost constantly. This is primarily used for time sensitive freight.
+
+Team Freight?
+Typically high-value freight that is moved by a driving team and paid at a higher rate for the expediency
+
+Temperature Protection?
+"Indicator that a commodity is sensitive to temperature changes and must stay within a certain temperature range.
+Related Terms:  Reefer, Running Mode"
+
+Terminal?
+An office out of which dispatch functions take place and maintenance is sometimes available.
+
+Terminate Call (T-Call)?
+When a driver's responsibility for a portion of a load has ended.
+
+Thermacube Trailer?
+Trailer with thin insulation that stays warm or cold for up to 72 hours.
+
+Third Structure Tax (3rd)?
+A tax on vehicle operation in addition to licensing and fuel tax (first and second structure taxes respectively). States charge usage fees to carriers for driving on their highways.
+
+Timesheet?
+A piece of paper for recording the number of hours worked.
+
+Toll?
+A charge payable for permission to use a particular bridge or road
+
+Toll Class?
+"The class of your vehicle or number of axles which determines the tolls you pay
+Related Terms: Toll"
+
+Toll Plaza?
+"A row of tollbooths on a toll road
+Related Terms: Toll"
+
+Toll Receipt?
+A paper document proving that toll transaction occurred, and money is either due or paid in full.
+
+Toll Reimbursement?
+"An act on which a Paid Toll Receipt is provided to JBH Reimbursements Department by the driver. After careful review and approval, the toll receipt amount is paid back to the driver either via JBH Payroll or via IC Driver settlement.
+Related Terms: Toll, Toll Receipt"
+
+Toll Speed Violation?
+"Generated when traveling over the Maximum speed limit with the Porty Authority of NYNJ and New York State Thruway
+Related Terms: Toll"
+
+Toll Sticker?
+"A small 2 inches in diameter Toll sticker that is placed in the windshield in order to collect toll activity
+Related Terms: Toll, Horizon, Good To Go"
+
+Toll Transponder?
+"A small 4 inceh toll box that is placed in the windshield in order to collect toll activity 
+Related Terms: Toll, EZPass, FasTrak"
+
+Toll Violation?
+"A paper invoice which is generated when a toll transponder is not detected at the time a toll transaction occurs
+Related Terms: Toll, Toll Receipt, Toll Reimbursement"
+
+Ton?
+Equal to 2000 lbs. J.B. Hunt can haul 40 tons (80,000 lbs) gross weight per load.
+
+Tracking Number?
+A number created and given to a customer to allow them to track the location and status; their order.
+
+Tractor?
+"Vehicle that pulls the trailer.
+Also known as: Power Unit"
+
+Trailer Number?
+A number created and given to a customer to allow them to know what trailer their order in on.
+
+Trailer On Flatcar (TOFC)?
+"An intermodal term meaning trailer on a railroad flatcar.
+Related Terms:Flatcar, Intermodal"
+
+Trailer Pool?
+"One or more trailers designated to a customer’s facility for preloading purposes.
+Related Terms:Spotted Trailer"
+
+Trailer Prefix?
+Four-character prefix that relates a trailer to a unique business unit or functional area. May also be used to identify an outside carrier's equipment; often reflecting the SCAC of that carrier when used in this manner.
+
+TransFlo?
+Website where carriers can send scanned paperwork.
+
+Transit Mode?
+The type of transportation used to move freight, truck or train.
+
+Transload?
+To transfer freight from one trailer to another after it has been picked up from the shipper.
+
+Transportation Worker Identification Credential (TWIC)?
+A security classification required by the Maritime Transportation Security Act for workers who need access to secure areas of the nation’s maritime facilities and vessels.
+
+Tread?
+The molded part of the tires that grip the road. There are legal limits regarding the depth of a tire’s tread.
+
+Truck Ordered Not Used (TONU)?
+When a customer orders a truck to transport their product and then cancels the load after the truck is dispatched.
+
+Truckload?
+"J.B. Hunt's division that handles transportation of shipping containers over the road.
+Related Terms:Business Unit"
+
+Turnpike?
+"An expressway on which a toll is charged
+Related Terms: Toll"
+
+Tweener Load?
+A load that takes more than one day but less than two days to complete. The mileage variation considered is 550 – 799 miles.
+
+Twenty-Foot Equivalent Unit (TEU)?
+An inexact unit of cargo capacity often used to describe the capacity of container ships and container terminals.
+
+UN Marking System?
+"Designed to quickly communicate several characteristics of Hazmat packaging, along with information on the test levels the packaging has successfully passed. Because these test levels are related to the hazard level and physical and chemical characteristics of the substance to be filled, the markings also indicate some of the properties of the materials that may be packed in each container.
+Related Terms: Hazard Class, Hazmat, Packing Group"
+
+Underbooked?
+When the number of units is greater than the number of loads. This typically requires soliciting freight.
+
+Unit Rate?
+"The dollar amount per unit to be charged for the accessorial.
+Related Terms:  Accessorial"
+
+Unit Type?
+"The type of rate that will be charged for the accessorial fee. 
+Example: Flat or Instance"
+
+Unit Type (Billing)?
+"The type of rate that will be charged for the accessorial fee. 
+Example: Flat or Instance"
+
+Unit Type (Maintenance)?
+"Tractor, trailer, chassis or container
+Related Terms: Equipment Type"
+
+Use It or Lose It?
+You forfeit any unused money left in your Flexible Spending Account at the end of the plan year per IRS rules.
+
+User ID?
+A unique alphanumeric code assigned to every employee. (E.g., JABC9999). This ID code is used by IT systems to identify the user (authentication) and determine what level of access should be granted in each system (authorization).
+
+Utilization?
+Miles per tractor per workday. Includes Over the Road (OTR) and Regional drivers, excludes shuttle drivers.
+
+Van?
+Dry trailer, hauls dry freight. Typically 53’ long.
+
+Variance?
+The difference between pay miles (what a driver is paid) and hub miles (the actual miles) a shipment has moved from origin to destination.
+
+Vehicle Identification Number (VIN)?
+The identifying code for a specific automobile. No two VINs are alike.
+
+Velocity?
+Keeping J.B. Hunt assets moving in the right direction and at the right pace.
+
+Vendor?
+"The party that makes goods or services available to companies.
+Also known as: Supplier"
+
+Violation Review Record (VRR)?
+Completed during a driver’s annual review. Driver lists all moving violations that have occurred over the last year.
+
+Warehouse Management System (WMS)?
+A warehouse management system is a software application, designed to support and optimize warehouse functionality and distribution center management.
+
+Way Bills?
+"Paperwork generated by railroad to keep track of J.B. Hunt equipment vs. flatcars used. This is also used by railroad for billing purposes.
+Related Terms:Intermodal"
+
+Weekend Delivery?
+"Customer who accepts product deliveries on weekends.
+Related Terms: Appointment, Holiday Delivery"
+
+Weigh Station?
+"Official scales used by the DOT to determine the weight of a truck and load.
+Related Terms: Department of Transportation (DOT)"
+
+Well Car?
+"Containers are placed inside of these open-top train cars, as opposed to on top like with a flat car.
+Related Terms: Flat Cars"
+
+Work Order?
+The combination of J.B. Hunt-accepted and customer-approved orders into logically grouped pieces of work.
+
+Yard Code?
+An abbreviation for a yard or terminal that allows J.B. Hunt personnel to identify that yard or terminal in the computer.
+
+Yard Goat (Mule)?
+Tractor used to move semi-trailers around the terminal yard.
+
+Yard Jockey (Hostler)?
+A person who operates a yard tractor or yard mule.
