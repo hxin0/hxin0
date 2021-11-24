@@ -1,0 +1,17 @@
+megabot (Teja's bot, mega bot, Python bot)
+The megabot is designed to automate the process to create tier 1 and tier 2 default rules for Orders system. It was written in Python and developed by Teja.
+
+omRules? (wdio bot, JavaScript bot, rule delete bot, simpleton bot, Hao's bot )
+The omRules bot can delete, create simpleton as well as tier 1 and tier 2 default rules in Orders system.
+You can download the bot from our ADO repo:
+https://jbhunt.visualstudio.com/EngAndTech/_git/omRules
+This bot is utilizing a test framework named WebdriverIO. It is written in JavaScript.
+
+bot?
+A program designed to automate manual processes. Our team has been using such automation tools to help us for rules bulk creation and bulk deletion.
+
+bots?
+Currently we have 2 bots to help us automate the process for rules bulk creation and bulk deletion. One is called mega bot; the other is called omRules bot.
+
+repo?
+A Git repository tracks and saves the history of all changes made to the files in a Git project. Here in J.B. Hunt, We currently are using Azure DevOps to store our git repositories.
